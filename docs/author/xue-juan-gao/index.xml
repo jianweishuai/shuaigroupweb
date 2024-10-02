@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue-Juan Gao | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/xue-juan-gao/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/xue-juan-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xue-Juan Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Xue-Juan Gao</title>
+      <link>https://jianweishuai.github.io/groupweb/author/xue-juan-gao/</link>
+    </image>
+    
+    <item>
+      <title>Motile parameters of cell migration in anisotropic environment derived by speed power spectrum fitting with double exponential decay</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/166-motile/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/166-motile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biexponential distribution of open times of a toy channel model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/143-the-biexponential-distribution-of-open-times-of-a-toy-channel-model/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/143-the-biexponential-distribution-of-open-times-of-a-toy-channel-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

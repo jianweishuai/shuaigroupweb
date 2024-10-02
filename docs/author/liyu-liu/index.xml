@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liyu Liu | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/liyu-liu/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/liyu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liyu Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Liyu Liu</title>
+      <link>https://jianweishuai.github.io/groupweb/author/liyu-liu/</link>
+    </image>
+    
+    <item>
+      <title>Assembly of Guanine Crystals as a Low-Polarizing Broadband Multilayer Reflector in a Spider,Phoroncidia rubroargentea</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITEMO XMBD: A flexible single-cell multimodal omics analysis framework to reveal the heterogeneity of immune cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022rnab/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022rnab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shannon entropy for time-varying persistence of cell migration</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021biophysj/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021biophysj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological gel-based microchamber array for tumor cell proliferation and migration studies in well-controlled biochemical gradients</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021labonchip/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021labonchip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving time-varying cellular motility parameters via wavelet analysis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021physbiol/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021physbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/157-poor_prognosis_with_coexistence_of_egfr_t790m_muta/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/157-poor_prognosis_with_coexistence_of_egfr_t790m_muta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological quantification of proliferation to invasion transition in tumor spheroids</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/165-morphological/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/165-morphological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative heterogeneity and subgroup classification based on motility of breast cancer cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/158-quantitative/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/158-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological quantification of proliferation to invasion transition in tumor spheroids</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/164-quantitative-modeling/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/164-quantitative-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling three-dimensional invasive solid tumor growth in heterogeneous microenvironment under chemotherapy</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/150-modeling/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/150-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synonymous mutations in oncogenesis and apoptosis versus survival unveiled by network modeling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/131-synonymous/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/131-synonymous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suqin Wu | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/suqin-wu/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/suqin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suqin Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Suqin Wu</title>
+      <link>https://jianweishuai.github.io/groupweb/author/suqin-wu/</link>
+    </image>
+    
+    <item>
+      <title>Systematic Assessment of the Effect of Internal Library in Targeted Analysis of SWATH-MS</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/167-systematic/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/167-systematic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

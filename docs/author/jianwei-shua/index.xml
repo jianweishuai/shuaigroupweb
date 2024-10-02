@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianwei Shua | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/jianwei-shua/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/jianwei-shua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianwei Shua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jianwei Shua</title>
+      <link>https://jianweishuai.github.io/groupweb/author/jianwei-shua/</link>
+    </image>
+    
+    <item>
+      <title>Protein Secondary Structure Prediction With a Reductive Deep Learning Method</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021frontbb/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021frontbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal pathways for the assembly of the Apaf-1 cytochrome c complex into apoptosome</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/146-optimal/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/146-optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

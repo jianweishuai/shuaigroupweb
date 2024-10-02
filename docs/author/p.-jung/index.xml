@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Jung | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/p.-jung/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/p.-jung/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Jung</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>P. Jung</title>
+      <link>https://jianweishuai.github.io/groupweb/author/p.-jung/</link>
+    </image>
+    
+    <item>
+      <title>Global noise and oscillations in clustered excitable media</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/87-global-noise-and-oscillation/</link>
+      <pubDate>Sat, 11 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/87-global-noise-and-oscillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of small excitable ion channel clusters.</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/79-the-dynamics-of-small/</link>
+      <pubDate>Sun, 11 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/79-the-dynamics-of-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropically Enhanced Excitability in Small Systems</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/78-entropically/</link>
+      <pubDate>Sun, 11 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/78-entropically/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

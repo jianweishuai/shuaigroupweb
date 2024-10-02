@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinjin Zhong | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/jinjin-zhong/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/jinjin-zhong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinjin Zhong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jinjin Zhong</title>
+      <link>https://jianweishuai.github.io/groupweb/author/jinjin-zhong/</link>
+    </image>
+    
+    <item>
+      <title>Assembly of Guanine Crystals as a Low-Polarizing Broadband Multilayer Reflector in a Spider,Phoroncidia rubroargentea</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic composition of RIP1–RIP3 signalling hub and its role in regulating cell death</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022natcb/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022natcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the optimal strategy of population control of quorum sensing network in Escherichia coli</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021npj-sba/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021npj-sba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic origins of the crystallographically preferred growth in evaporation-induced colloidal crystals</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021pnas/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021pnas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

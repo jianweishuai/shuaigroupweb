@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianwei Shuai | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/jianwei-shuai/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/jianwei-shuai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianwei Shuai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jianwei Shuai</title>
+      <link>https://jianweishuai.github.io/groupweb/author/jianwei-shuai/</link>
+    </image>
+    
+    <item>
+      <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023huhuan-cbm/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023huhuan-cbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/zhaoq-bib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/zhaoq-bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XBound-Former: Toward Cross-scale Boundary Modeling in Transformers</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023-wangls-ieee/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023-wangls-ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of an interpretable radiomic nomogram for severe radiation proctitis prediction in postoperative cervical cancer patients</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spring-like effect of microRNA-31 in balancing inflammatory and regenerative responses in colitis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022-jing-qu/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022-jing-qu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring depression severity based on facial expression and body movement using deep convolutional neural network</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022depression/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022-bib2/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022-bib2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assembly of Guanine Crystals as a Low-Polarizing Broadband Multilayer Reflector in a Spider,Phoroncidia rubroargentea</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caspase-1 and Gasdermin D Afford the Optimal Targets with Distinct Switching Strategies in NLRP1b Inflammasome-Induced Cell Death</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022research/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITEMO XMBD: A flexible single-cell multimodal omics analysis framework to reveal the heterogeneity of immune cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022rnab/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022rnab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-optimized propagation of synchronous firing rate in a feed-forward multilayer neuronal network</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022physica/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022physica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dormant Nfatc1 reporter-marked basal stem progenitor cells contribute to mammary lobuloalveoli formation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022iscience/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022iscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic composition of RIP1–RIP3 signalling hub and its role in regulating cell death</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022natcb/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022natcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSSort-DIA XMBD: A deep learning classification tool of the peptide precursors quantified by OpenSWATH</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022jp/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022jp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network modeling-based identification of the switching targets between pyroptosis and secondary pyroptosis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022chaossolitonf/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022chaossolitonf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Ag doping on bipolar switching operation in molybdenum trioxide (MoO3) nanostructures for non-volatile memory</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021jac/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021jac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the optimal strategy of population control of quorum sensing network in Escherichia coli</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021npj-sba/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021npj-sba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell death modes are specified by the crosstalk dynamics within pyroptotic and apoptotic signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021chaos/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of oxygen vacancies in Li2FeSiO4:first-principles calculations</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021pccp/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021pccp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuffless blood pressure estimation based on composite neural network and graphics information</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021bspcbloodpressure/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021bspcbloodpressure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep representation features from DreamDIAXMBD improve the analysis of data-independent acquisition proteomics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021cb-dreamdia/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021cb-dreamdia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shannon entropy for time-varying persistence of cell migration</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021biophysj/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021biophysj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Methods for Sleep Arousal Detection Using Polysomnographic Signals</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021brainsci/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021brainsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological gel-based microchamber array for tumor cell proliferation and migration studies in well-controlled biochemical gradients</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021labonchip/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021labonchip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving time-varying cellular motility parameters via wavelet analysis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021physbiol/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021physbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic origins of the crystallographically preferred growth in evaporation-induced colloidal crystals</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021pnas/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biphasic regulation of transcriptional surge generated by the gene feedback loop in a two-component system</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021bioinformatics/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Different response modes and cooperation modulations of blue-light receptors in photomorphogenesis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021plantce/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021plantce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIP1-dependent linear and nonlinear recruitments of caspase-8 and RIP3 respectively to necrosome specify distinct cell death outcomes</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021proteincell/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021proteincell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of four feedback loops in mitochondrial permeability transition pore opening induced by Ca^{2&#43;} and reactive oxygen species </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/172-roles-of-four-feedba/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/172-roles-of-four-feedba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memristors: Understanding, Utilization and Upgradation for Neuromorphic Computing</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/159-memristors/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/159-memristors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oscillation Amplitude, Not the Frequency of Cytosolic Calcium, Regulates Apoptosis Induction </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/168-anti-cross/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/168-anti-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oscillation Amplitude, Not the Frequency of Cytosolic Calcium, Regulates Apoptosis Induction </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/169-the-oscillation-amplitu/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/169-the-oscillation-amplitu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced vibrational resonance in a single neuron with chemical autapse for signal detection </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/176-enhanced/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/176-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of four feedback loops in mitochondrial permeability transition pore opening induced by Ca^{2&#43;} and reactive oxygen species </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/171-the-er/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/171-the-er/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Msi1-mTOR pathway drives the pathogenesis of mammary and extramammary Paget’s disease </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/175-the-msi1-mtor/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/175-the-msi1-mtor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Modeling Identifies TIRAP-Independent MyD88 Activation Complex and Myddosome Assembly Strategy in LPS/TLR4 Signaling </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/170-data/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/170-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Assessment of the Effect of Internal Library in Targeted Analysis of SWATH-MS</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/167-systematic/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/167-systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/157-poor_prognosis_with_coexistence_of_egfr_t790m_muta/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/157-poor_prognosis_with_coexistence_of_egfr_t790m_muta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/155-clinical_and_imageological_features_of_lung_squamo/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/155-clinical_and_imageological_features_of_lung_squamo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological quantification of proliferation to invasion transition in tumor spheroids</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/165-morphological/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/165-morphological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative heterogeneity and subgroup classification based on motility of breast cancer cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/158-quantitative/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/158-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological quantification of proliferation to invasion transition in tumor spheroids</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/164-quantitative-modeling/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/164-quantitative-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-31 Reduces Inflammatory Signaling and Promotes Regeneration in Colon Epithelium, and Delivery of Mimics in Microspheres Reduces Colitis in Mice</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/151-microrna-31/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/151-microrna-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/156-2019_nonlin/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/156-2019_nonlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling three-dimensional invasive solid tumor growth in heterogeneous microenvironment under chemotherapy</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/150-modeling/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/150-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>细菌群体感应机制的动力学建模研究</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/148-spiking/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/148-spiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave failure at strong coupling in intracellular Ca2&#43; signaling system with clustered channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/147-wave/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/147-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insensitivity of synchronization to network structure in chaotic pendulum systems with time-delay coupling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/145-insensitivity/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/145-insensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiR-31 promotes mammary stem cell expansion and breast tumorigenesis by suppressing Wnt signaling antagonists</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/141-mir-31/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/141-mir-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformational dynamics of the essential sensor histidine kinase WalK</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/140-conformational/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/140-conformational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of 1, 4, 5-triphosphate receptor channel gating dynamics by mutant presenilin in Alzheimer’s disease cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/139-stress/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/139-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress responsive miR-31 is a major modulator of mouse intestinal stem cells during regeneration and tumorigenesis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/138-regulation/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/138-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Msi2 Maintains Quiescent State of Hair Follicle Stem Cells by Directly Repressing the Hh Signaling Pathway</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/137-msi2/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/137-msi2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Dynamic Interaction between microRNA and Transcription Factor on Gene Expression</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/134-effect/</link>
+      <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/134-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of gating dynamics of different IP3 R channels with immune algorithm searching for channel parameter distributions</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/135-comparison/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/135-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppressing effect of Ca2&#43; blips on puff amplitudes by inhibiting channels to prevent recovery</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/136-suppressing/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/136-suppressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synonymous mutations in oncogenesis and apoptosis versus survival unveiled by network modeling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/131-synonymous/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/131-synonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>钙离子通道和钙信号震荡模型研究</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/132-modeling-of-ca2&#43;-channels-and-ca2&#43;-signal-oscillations/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/132-modeling-of-ca2&#43;-channels-and-ca2&#43;-signal-oscillations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel based generating function approach to the stochastic Hodgkin-Huxley neuronal system</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/130-cha/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/130-cha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alzheimer’s disease via enhanced calcium signaling caused by the decrease of endoplasmic reticulum–mitochondrial distance</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/129-alzheimers-disease/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/129-alzheimers-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Langevin approaches to simulate Markovian channel dynamics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/128-accurate-langevin-approaches-to-simulate-markovian-channel-dynamics/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/128-accurate-langevin-approaches-to-simulate-markovian-channel-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deletion of the tyrosine phosphatase Shp2 in Sertoli cells causes infertility in mice</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/126-deletion/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/126-deletion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformational Dynamics of Response Regulator RegX3 from Mycobacterium tuberculosis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/127-conformational/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/127-conformational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonance induced by a spatially periodic force in the reaction-diffusion system</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/125-resonance/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/125-resonance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of extracellular potassium diffusion on electrically coupled neuron networks</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/123-effects/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/123-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced multiple vibrational resonances by Na1 and K1 dynamics in a neuron model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/121-enhanced/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/121-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal microdomain crosstalk between endoplasmic reticulum and mitochondria for Ca21 oscillation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/122-optimal/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/122-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced multiple vibrational resonances by Na1 and K1 dynamics in a neuron model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/120-frequency/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/120-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 3-dimensional cellular automata for HIV infection</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/117-the-3-dimensional/</link>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/117-the-3-dimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Langevin approach for stochastic Hodgkin–Huxley dynamics with discretization of channel open fraction</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/114-langevin-for-stoch/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/114-langevin-for-stoch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>应用免疫算法研究肌醇 1,4,5鄄磷酸三酯 受体通道模型参数分布特性</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/115-time-delay/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/115-time-delay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-based Langevin approach for the stochastic Hodgkin-Huxley neuron</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/111-channel-based-langevin/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/111-channel-based-langevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Communication and Networking:Opportunities and Challenges</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/110-molecular-commun/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/110-molecular-commun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active generation and propagation of Ca2&#43; signals within tunneling membrane nanotubes</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/104-active/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/104-active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent calcium puff signals driven by intracellular noises</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/98-coherent-calcium-puff-signals/</link>
+      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/98-coherent-calcium-puff-signals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercellular signaling in glial cells: Calcium waves and oscillations in response to mechanical stimulation and glutamate</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/102-intercellu/</link>
+      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/102-intercellu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropically modified spiking ability and periodicity in clustered channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/94-entropically-mod/</link>
+      <pubDate>Tue, 11 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/94-entropically-mod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological excitable media based on non-excitable cells and calcium signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/96-biological-excitable/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/96-biological-excitable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ca2&#43; Puffs Originate from Preestablished Stable Clusters of Inositol Trisphosphate Receptors</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/91-ca2&#43;-puffs-originate/</link>
+      <pubDate>Wed, 11 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/91-ca2&#43;-puffs-originate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Ca21 Feedback on a Single Inositol 1,4,5-Trisphosphate Receptor and Its Modulation by Ca21 Buffers</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/86-individuals/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/86-individuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kinetic Model of Single and Clustered IP3 Receptors in the Absence of Ca21 Feedback</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/83-a-kinetic/</link>
+      <pubDate>Sat, 11 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/83-a-kinetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Trigger’ Events Precede Calcium Puffs in Xenopus Oocytes</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/80-trigger-events/</link>
+      <pubDate>Sat, 11 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/80-trigger-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Number and Spatial Distribution of IP3 Receptors Underlying Calcium Puffs in Xenopus Oocytes</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/81-the-number-and-spatial/</link>
+      <pubDate>Sat, 11 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/81-the-number-and-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical single-channel recording by imaging Ca2&#43; flux through individual ion channels: theoretical considerations and limits to resolution</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/77-optical/</link>
+      <pubDate>Mon, 11 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/77-optical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

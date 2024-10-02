@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Zhao | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/qi-zhao/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/qi-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qi Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Qi Zhao</title>
+      <link>https://jianweishuai.github.io/groupweb/author/qi-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023huhuan-cbm/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023huhuan-cbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/zhaoq-bib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/zhaoq-bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022-bib2/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022-bib2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITEMO XMBD: A flexible single-cell multimodal omics analysis framework to reveal the heterogeneity of immune cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022rnab/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022rnab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Dynamic Interaction between microRNA and Transcription Factor on Gene Expression</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/134-effect/</link>
+      <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/134-effect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

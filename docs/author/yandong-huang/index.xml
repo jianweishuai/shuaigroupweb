@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yandong Huang | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/yandong-huang/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/yandong-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yandong Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Yandong Huang</title>
+      <link>https://jianweishuai.github.io/groupweb/author/yandong-huang/</link>
+    </image>
+    
+    <item>
+      <title>Protein Secondary Structure Prediction With a Reductive Deep Learning Method</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021frontbb/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021frontbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel based generating function approach to the stochastic Hodgkin-Huxley neuronal system</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/130-cha/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/130-cha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Langevin approaches to simulate Markovian channel dynamics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/128-accurate-langevin-approaches-to-simulate-markovian-channel-dynamics/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/128-accurate-langevin-approaches-to-simulate-markovian-channel-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced multiple vibrational resonances by Na1 and K1 dynamics in a neuron model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/120-frequency/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/120-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Langevin approach for stochastic Hodgkin–Huxley dynamics with discretization of channel open fraction</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/114-langevin-for-stoch/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/114-langevin-for-stoch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-based Langevin approach for the stochastic Hodgkin-Huxley neuron</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/111-channel-based-langevin/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/111-channel-based-langevin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meichun Cai | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/meichun-cai/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/meichun-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meichun Cai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Meichun Cai</title>
+      <link>https://jianweishuai.github.io/groupweb/author/meichun-cai/</link>
+    </image>
+    
+    <item>
+      <title>Wave failure at strong coupling in intracellular Ca2&#43; signaling system with clustered channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/147-wave/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/147-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of 1, 4, 5-triphosphate receptor channel gating dynamics by mutant presenilin in Alzheimer’s disease cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/139-stress/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/139-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress responsive miR-31 is a major modulator of mouse intestinal stem cells during regeneration and tumorigenesis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/138-regulation/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/138-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppressing effect of Ca2&#43; blips on puff amplitudes by inhibiting channels to prevent recovery</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/136-suppressing/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/136-suppressing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

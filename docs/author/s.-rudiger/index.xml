@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. R¨udiger | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/s.-rudiger/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/s.-rudiger/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. R¨udiger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>S. R¨udiger</title>
+      <link>https://jianweishuai.github.io/groupweb/author/s.-rudiger/</link>
+    </image>
+    
+    <item>
+      <title>Modified Langevin approach for a stochastic calcium puff model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/106-modi/</link>
+      <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/106-modi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcium Domains around Single and Clustered IP3 Receptors and Their Modulation by Buffers</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/95-calcium/</link>
+      <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/95-calcium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law of Mass Action, Detailed Balance, and the Modeling of Calcium Puffs</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/97-law-of-mass-action/</link>
+      <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/97-law-of-mass-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puff-wave transition in an inhomogeneous model for calcium signals</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/92-puff-wave/</link>
+      <pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/92-puff-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of models of the IP3R channel in Xenopus Oocyte</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/90-an-investiga/</link>
+      <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/90-an-investiga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Stochastic and Deterministic Simulations of Calcium Blips</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/84-hybrid/</link>
+      <pubDate>Tue, 11 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/84-hybrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

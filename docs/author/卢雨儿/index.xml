@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>卢雨儿 | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/%E5%8D%A2%E9%9B%A8%E5%84%BF/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/%E5%8D%A2%E9%9B%A8%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description>卢雨儿</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/author/%E5%8D%A2%E9%9B%A8%E5%84%BF/avatar_huaa54f962f2344f21756e11aeb1b71e72_20795_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>卢雨儿</title>
+      <link>https://jianweishuai.github.io/groupweb/author/%E5%8D%A2%E9%9B%A8%E5%84%BF/</link>
+    </image>
+    
+    <item>
+      <title>基于自然语言处理的单细胞转录组数据伪时间分析</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022%E9%9B%A8%E5%84%BFbiophy/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022%E9%9B%A8%E5%84%BFbiophy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

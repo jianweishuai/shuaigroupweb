@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiwei He | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/zhiwei-he/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/zhiwei-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiwei He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhiwei He</title>
+      <link>https://jianweishuai.github.io/groupweb/author/zhiwei-he/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced vibrational resonance in a single neuron with chemical autapse for signal detection </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/176-enhanced/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/176-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/156-2019_nonlin/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/156-2019_nonlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>细菌群体感应机制的动力学建模研究</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/148-spiking/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/148-spiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonance induced by a spatially periodic force in the reaction-diffusion system</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/125-resonance/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/125-resonance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tadashi Nakano | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/tadashi-nakano/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/tadashi-nakano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tadashi Nakano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Tadashi Nakano</title>
+      <link>https://jianweishuai.github.io/groupweb/author/tadashi-nakano/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced vibrational resonance in a single neuron with chemical autapse for signal detection </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/176-enhanced/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/176-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/156-2019_nonlin/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/156-2019_nonlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>细菌群体感应机制的动力学建模研究</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/148-spiking/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/148-spiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Communication and Networking:Opportunities and Challenges</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/110-molecular-commun/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/110-molecular-commun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological excitable media based on non-excitable cells and calcium signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/96-biological-excitable/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/96-biological-excitable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

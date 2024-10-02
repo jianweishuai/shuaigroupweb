@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian F. Smith | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/ian-f.-smith/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/ian-f.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian F. Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Ian F. Smith</title>
+      <link>https://jianweishuai.github.io/groupweb/author/ian-f.-smith/</link>
+    </image>
+    
+    <item>
+      <title>Active generation and propagation of Ca2&#43; signals within tunneling membrane nanotubes</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/104-active/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/104-active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ca2&#43; Puffs Originate from Preestablished Stable Clusters of Inositol Trisphosphate Receptors</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/91-ca2&#43;-puffs-originate/</link>
+      <pubDate>Wed, 11 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/91-ca2&#43;-puffs-originate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

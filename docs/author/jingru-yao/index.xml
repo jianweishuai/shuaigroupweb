@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingru Yao | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/jingru-yao/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/jingru-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingru Yao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jingru Yao</title>
+      <link>https://jianweishuai.github.io/groupweb/author/jingru-yao/</link>
+    </image>
+    
+    <item>
+      <title>Shannon entropy for time-varying persistence of cell migration</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021biophysj/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021biophysj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological gel-based microchamber array for tumor cell proliferation and migration studies in well-controlled biochemical gradients</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021labonchip/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021labonchip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving time-varying cellular motility parameters via wavelet analysis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021physbiol/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021physbiol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

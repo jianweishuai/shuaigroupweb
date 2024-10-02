@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J W Shuai | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/j-w-shuai/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/j-w-shuai/index.xml" rel="self" type="application/rss+xml" />
+    <description>J W Shuai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>J W Shuai</title>
+      <link>https://jianweishuai.github.io/groupweb/author/j-w-shuai/</link>
+    </image>
+    
+    <item>
+      <title>Entropically modified spiking ability and periodicity in clustered channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/93-a-stochastic-spatial/</link>
+      <pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/93-a-stochastic-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of mortality selection on the emergence of cooperation with network dynamics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/89-effect-of-mortalit/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/89-effect-of-mortalit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

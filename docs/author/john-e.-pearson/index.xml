@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John E. Pearson | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/john-e.-pearson/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/john-e.-pearson/index.xml" rel="self" type="application/rss+xml" />
+    <description>John E. Pearson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>John E. Pearson</title>
+      <link>https://jianweishuai.github.io/groupweb/author/john-e.-pearson/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Ca21 Feedback on a Single Inositol 1,4,5-Trisphosphate Receptor and Its Modulation by Ca21 Buffers</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/86-individuals/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/86-individuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kinetic Model of Single and Clustered IP3 Receptors in the Absence of Ca21 Feedback</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/83-a-kinetic/</link>
+      <pubDate>Sat, 11 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/83-a-kinetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

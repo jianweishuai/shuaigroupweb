@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李翔 | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/%E6%9D%8E%E7%BF%94/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/%E6%9D%8E%E7%BF%94/index.xml" rel="self" type="application/rss+xml" />
+    <description>李翔</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>李翔</title>
+      <link>https://jianweishuai.github.io/groupweb/author/%E6%9D%8E%E7%BF%94/</link>
+    </image>
+    
+    <item>
+      <title>钙离子信号及细胞调控信号网络动力学 </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6-%E9%92%99/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6-%E9%92%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据不依赖获取的质谱数据的深度学习分析方</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021%E5%8E%A6%E5%A4%A7%E5%AD%A6%E6%8A%A5%E8%B4%A8%E8%B0%B1/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021%E5%8E%A6%E5%A4%A7%E5%AD%A6%E6%8A%A5%E8%B4%A8%E8%B0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>癌细胞信号网络动力学研究</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/133-%E7%99%8C%E7%BB%86%E8%83%9E%E4%BF%A1%E5%8F%B7%E7%BD%91%E7%BB%9C%E5%8A%A8%E5%8A%9B%E5%AD%A6%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/133-%E7%99%8C%E7%BB%86%E8%83%9E%E4%BF%A1%E5%8F%B7%E7%BD%91%E7%BB%9C%E5%8A%A8%E5%8A%9B%E5%AD%A6%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

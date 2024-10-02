@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>袁钦湄 | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/%E8%A2%81%E9%92%A6%E6%B9%84/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/%E8%A2%81%E9%92%A6%E6%B9%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>袁钦湄</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>袁钦湄</title>
+      <link>https://jianweishuai.github.io/groupweb/author/%E8%A2%81%E9%92%A6%E6%B9%84/</link>
+    </image>
+    
+    <item>
+      <title>基于深度学习算法的抑郁症表情与动作及其心理整合变化的过程分析</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023emotional/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023emotional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于人工智能技术的抑郁症研究进展</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/160-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E4%B8%8E%E5%B1%95%E6%9C%9B.-%E5%9B%BD%E9%99%85%E7%B2%BE%E7%A5%9E%E7%97%85%E5%AD%A6%E6%9D%82%E5%BF%972020/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/160-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E4%B8%8E%E5%B1%95%E6%9C%9B.-%E5%9B%BD%E9%99%85%E7%B2%BE%E7%A5%9E%E7%97%85%E5%AD%A6%E6%9D%82%E5%BF%972020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于人工智能技术的抑郁症研究进展</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/161-%E5%9F%BA%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%9A%84%E6%8A%91%E9%83%81%E7%97%87%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.-%E4%B8%AD%E5%9B%BD%E4%B8%B4%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E6%9D%82%E5%BF%97/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/161-%E5%9F%BA%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%9A%84%E6%8A%91%E9%83%81%E7%97%87%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.-%E4%B8%AD%E5%9B%BD%E4%B8%B4%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E6%9D%82%E5%BF%97/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

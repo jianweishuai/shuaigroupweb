@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rong Sheng | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/rong-sheng/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/rong-sheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rong Sheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Rong Sheng</title>
+      <link>https://jianweishuai.github.io/groupweb/author/rong-sheng/</link>
+    </image>
+    
+    <item>
+      <title>Coherent calcium puff signals driven by intracellular noises</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/98-coherent-calcium-puff-signals/</link>
+      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/98-coherent-calcium-puff-signals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropically modified spiking ability and periodicity in clustered channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/94-entropically-mod/</link>
+      <pubDate>Tue, 11 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/94-entropically-mod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

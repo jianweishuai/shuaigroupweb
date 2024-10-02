@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qing-Zu He | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/qing-zu-he/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/qing-zu-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qing-Zu He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Qing-Zu He</title>
+      <link>https://jianweishuai.github.io/groupweb/author/qing-zu-he/</link>
+    </image>
+    
+    <item>
+      <title>Motile parameters of cell migration in anisotropic environment derived by speed power spectrum fitting with double exponential decay</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/166-motile/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/166-motile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

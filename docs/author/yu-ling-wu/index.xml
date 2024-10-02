@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Ling Wu | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/yu-ling-wu/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/yu-ling-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Ling Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Yu-Ling Wu</title>
+      <link>https://jianweishuai.github.io/groupweb/author/yu-ling-wu/</link>
+    </image>
+    
+    <item>
+      <title>Derivation of persistent time for anisotropic migration of cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/144-the-derivation-of-persistent-times-for-anisotropic-migration-of-cells.-/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/144-the-derivation-of-persistent-times-for-anisotropic-migration-of-cells.-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

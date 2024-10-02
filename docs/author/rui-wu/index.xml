@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Wu | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/rui-wu/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/rui-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Rui Wu</title>
+      <link>https://jianweishuai.github.io/groupweb/author/rui-wu/</link>
+    </image>
+    
+    <item>
+      <title>RIP1-dependent linear and nonlinear recruitments of caspase-8 and RIP3 respectively to necrosome specify distinct cell death outcomes</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021proteincell/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021proteincell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Assessment of the Effect of Internal Library in Targeted Analysis of SWATH-MS</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/167-systematic/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/167-systematic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

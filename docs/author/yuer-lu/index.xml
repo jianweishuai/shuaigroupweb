@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuer Lu | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/yuer-lu/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/yuer-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuer Lu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuer Lu</title>
+      <link>https://jianweishuai.github.io/groupweb/author/yuer-lu/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of an interpretable radiomic nomogram for severe radiation proctitis prediction in postoperative cervical cancer patients</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring depression severity based on facial expression and body movement using deep convolutional neural network</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022depression/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assembly of Guanine Crystals as a Low-Polarizing Broadband Multilayer Reflector in a Spider,Phoroncidia rubroargentea</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022acs-spider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITEMO XMBD: A flexible single-cell multimodal omics analysis framework to reveal the heterogeneity of immune cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022rnab/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022rnab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuffless blood pressure estimation based on composite neural network and graphics information</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021bspcbloodpressure/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021bspcbloodpressure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep representation features from DreamDIAXMBD improve the analysis of data-independent acquisition proteomics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021cb-dreamdia/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021cb-dreamdia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Methods for Sleep Arousal Detection Using Polysomnographic Signals</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021brainsci/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021brainsci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

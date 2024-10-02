@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHUAI Jian-Wei | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/shuai-jian-wei/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/shuai-jian-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>SHUAI Jian-Wei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>SHUAI Jian-Wei</title>
+      <link>https://jianweishuai.github.io/groupweb/author/shuai-jian-wei/</link>
+    </image>
+    
+    <item>
+      <title>Langevin approach with rescaled noise for stochastic channel dynamics in Hodgkin–Huxley neurons</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/124-langevin/</link>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/124-langevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuronal modeling with intracellular calcium signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/105-neuronal/</link>
+      <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/105-neuronal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Moran Process with Network Dynamics for the Evolution of Cooperation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/88-modelling-moran/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/88-modelling-moran/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Jin | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/jun-jin/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/jun-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Jin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jun Jin</title>
+      <link>https://jianweishuai.github.io/groupweb/author/jun-jin/</link>
+    </image>
+    
+    <item>
+      <title>Caspase-1 and Gasdermin D Afford the Optimal Targets with Distinct Switching Strategies in NLRP1b Inflammasome-Induced Cell Death</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022research/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITEMO XMBD: A flexible single-cell multimodal omics analysis framework to reveal the heterogeneity of immune cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022rnab/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022rnab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network modeling-based identification of the switching targets between pyroptosis and secondary pyroptosis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022chaossolitonf/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022chaossolitonf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the optimal strategy of population control of quorum sensing network in Escherichia coli</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021npj-sba/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021npj-sba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oscillations Governed by the Incoherent Dynamics in Necroptotic Signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021fip-xufei/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021fip-xufei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell death modes are specified by the crosstalk dynamics within pyroptotic and apoptotic signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021chaos/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021chaos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fang Wei | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/fang-wei/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/fang-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fang Wei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Fang Wei</title>
+      <link>https://jianweishuai.github.io/groupweb/author/fang-wei/</link>
+    </image>
+    
+    <item>
+      <title>Regulation of 1, 4, 5-triphosphate receptor channel gating dynamics by mutant presenilin in Alzheimer’s disease cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/139-stress/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/139-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress responsive miR-31 is a major modulator of mouse intestinal stem cells during regeneration and tumorigenesis</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/138-regulation/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/138-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Communication and Networking:Opportunities and Challenges</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/110-molecular-commun/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/110-molecular-commun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercellular signaling in glial cells: Calcium waves and oscillations in response to mechanical stimulation and glutamate</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/102-intercellu/</link>
+      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/102-intercellu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownian diffusion of ion channels in different membrane patch geometries</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/99-brownian-diffusio/</link>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/99-brownian-diffusio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

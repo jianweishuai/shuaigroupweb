@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianghui Ma | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/xianghui-ma/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/xianghui-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianghui Ma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Xianghui Ma</title>
+      <link>https://jianweishuai.github.io/groupweb/author/xianghui-ma/</link>
+    </image>
+    
+    <item>
+      <title>The Msi1-mTOR pathway drives the pathogenesis of mammary and extramammary Paget’s disease </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/175-the-msi1-mtor/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/175-the-msi1-mtor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Msi2 Maintains Quiescent State of Hair Follicle Stem Cells by Directly Repressing the Hh Signaling Pathway</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/137-msi2/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/137-msi2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

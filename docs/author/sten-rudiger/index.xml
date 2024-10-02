@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sten Ru¨diger | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/sten-rudiger/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/sten-rudiger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sten Ru¨diger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Sten Ru¨diger</title>
+      <link>https://jianweishuai.github.io/groupweb/author/sten-rudiger/</link>
+    </image>
+    
+    <item>
+      <title>Poor Prognosis With Coexistence Of EGFR T790M Mutation And Common EGFR-Activating Mutation In Non- Small Cell Lung Cancer</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/153-modeling-of-stochastic-ca2&#43;-signals/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/153-modeling-of-stochastic-ca2&#43;-signals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Langevin approaches to simulate Markovian channel dynamics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/128-accurate-langevin-approaches-to-simulate-markovian-channel-dynamics/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/128-accurate-langevin-approaches-to-simulate-markovian-channel-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced multiple vibrational resonances by Na1 and K1 dynamics in a neuron model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/120-frequency/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/120-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Langevin approach for stochastic Hodgkin–Huxley dynamics with discretization of channel open fraction</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/114-langevin-for-stoch/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/114-langevin-for-stoch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-based Langevin approach for the stochastic Hodgkin-Huxley neuron</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/111-channel-based-langevin/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/111-channel-based-langevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termination of Ca²&#43; release for clustered IP₃R channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/108-termination-of-ca2&#43;/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/108-termination-of-ca2&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent calcium puff signals driven by intracellular noises</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/98-coherent-calcium-puff-signals/</link>
+      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/98-coherent-calcium-puff-signals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

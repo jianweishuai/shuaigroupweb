@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linxi Li | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/linxi-li/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/linxi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linxi Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Linxi Li</title>
+      <link>https://jianweishuai.github.io/groupweb/author/linxi-li/</link>
+    </image>
+    
+    <item>
+      <title>Optimal pathways for the assembly of the Apaf-1 cytochrome c complex into apoptosome</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/146-optimal/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/146-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal microdomain crosstalk between endoplasmic reticulum and mitochondria for Ca21 oscillation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/122-optimal/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/122-optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

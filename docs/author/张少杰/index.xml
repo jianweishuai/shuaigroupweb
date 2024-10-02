@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张少杰 | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/%E5%BC%A0%E5%B0%91%E6%9D%B0/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/%E5%BC%A0%E5%B0%91%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>张少杰</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>张少杰</title>
+      <link>https://jianweishuai.github.io/groupweb/author/%E5%BC%A0%E5%B0%91%E6%9D%B0/</link>
+    </image>
+    
+    <item>
+      <title>Classification of Sleep Apnea with Artificial Intelligence</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/162-%E9%AA%A8%E7%A7%91%E5%BA%B7%E5%A4%8D%E5%8C%BB%E7%96%97%E9%A2%86%E5%9F%9F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%BB%BA%E7%AB%8B%E5%8F%8A%E5%85%B6%E5%88%86%E6%9E%90/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/162-%E9%AA%A8%E7%A7%91%E5%BA%B7%E5%A4%8D%E5%8C%BB%E7%96%97%E9%A2%86%E5%9F%9F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%BB%BA%E7%AB%8B%E5%8F%8A%E5%85%B6%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Sleep Apnea with Artificial Intelligence</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/163-classification_of_sleep_apnea_with_artificial_inte/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/163-classification_of_sleep_apnea_with_artificial_inte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

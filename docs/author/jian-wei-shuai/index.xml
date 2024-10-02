@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian-Wei Shuai | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/jian-wei-shuai/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/jian-wei-shuai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian-Wei Shuai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jian-Wei Shuai</title>
+      <link>https://jianweishuai.github.io/groupweb/author/jian-wei-shuai/</link>
+    </image>
+    
+    <item>
+      <title>Oscillations Governed by the Incoherent Dynamics in Necroptotic Signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021fip-xufei/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021fip-xufei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual mechanisms of Bcl-2 regulation in IP3-receptor-mediated Ca2&#43; release: A computational study</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021cpb/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021cpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motile parameters of cell migration in anisotropic environment derived by speed power spectrum fitting with double exponential decay</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/166-motile/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/166-motile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivation of persistent time for anisotropic migration of cells</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/144-the-derivation-of-persistent-times-for-anisotropic-migration-of-cells.-/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/144-the-derivation-of-persistent-times-for-anisotropic-migration-of-cells.-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biexponential distribution of open times of a toy channel model</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/143-the-biexponential-distribution-of-open-times-of-a-toy-channel-model/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/143-the-biexponential-distribution-of-open-times-of-a-toy-channel-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isoprenaline: A Potential Contributor in Sick Sinus Syndrome—Insights from a Mathematical Model of the Rabbit Sinoatrial Node</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/118-isoprenaline/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/118-isoprenaline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Induced Dipoles Incorporated into All-Atom Zn Protein Simulations with Multiscale Modeling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/113-induced/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/113-induced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termination of Ca²&#43; release for clustered IP₃R channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/108-termination-of-ca2&#43;/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/108-termination-of-ca2&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical modeling of intracellular and intercellular calcium signaling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/73-mathematical/</link>
+      <pubDate>Mon, 11 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/73-mathematical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

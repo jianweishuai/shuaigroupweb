@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hai Lin | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/hai-lin/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/hai-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hai Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Hai Lin</title>
+      <link>https://jianweishuai.github.io/groupweb/author/hai-lin/</link>
+    </image>
+    
+    <item>
+      <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023huhuan-cbm/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023huhuan-cbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of an interpretable radiomic nomogram for severe radiation proctitis prediction in postoperative cervical cancer patients</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring depression severity based on facial expression and body movement using deep convolutional neural network</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2022depression/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2022depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Methods for Sleep Arousal Detection Using Polysomnographic Signals</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021brainsci/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021brainsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperation among mobile individuals with payoff expectations in the spatial prisoner’s dilemma game</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/101-cooperation/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/101-cooperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropically modified spiking ability and periodicity in clustered channels</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/93-a-stochastic-spatial/</link>
+      <pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/93-a-stochastic-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of mortality selection on the emergence of cooperation with network dynamics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/89-effect-of-mortalit/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/89-effect-of-mortalit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual’s strategy characterized by local topology conditions in prisoner’s dilemma on scale-free networks</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/85-modeling/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/85-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Moran Process with Network Dynamics for the Evolution of Cooperation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/88-modelling-moran/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/88-modelling-moran/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

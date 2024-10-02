@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Chen | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/yuan-chen/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/yuan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuan Chen</title>
+      <link>https://jianweishuai.github.io/groupweb/author/yuan-chen/</link>
+    </image>
+    
+    <item>
+      <title>Suppressing effect of Ca2&#43; blips on puff amplitudes by inhibiting channels to prevent recovery</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/136-suppressing/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/136-suppressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synonymous mutations in oncogenesis and apoptosis versus survival unveiled by network modeling</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/131-synonymous/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/131-synonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>钙离子通道和钙信号震荡模型研究</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/132-modeling-of-ca2&#43;-channels-and-ca2&#43;-signal-oscillations/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/132-modeling-of-ca2&#43;-channels-and-ca2&#43;-signal-oscillations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

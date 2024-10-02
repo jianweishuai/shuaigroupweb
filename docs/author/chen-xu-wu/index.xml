@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen-Xu Wu | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/chen-xu-wu/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/chen-xu-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen-Xu Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Chen-Xu Wu</title>
+      <link>https://jianweishuai.github.io/groupweb/author/chen-xu-wu/</link>
+    </image>
+    
+    <item>
+      <title>Effect of mortality selection on the emergence of cooperation with network dynamics</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/89-effect-of-mortalit/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/89-effect-of-mortalit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual’s strategy characterized by local topology conditions in prisoner’s dilemma on scale-free networks</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/85-modeling/</link>
+      <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/85-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

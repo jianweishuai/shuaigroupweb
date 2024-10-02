@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>钟传奇 | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/%E9%92%9F%E4%BC%A0%E5%A5%87/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/%E9%92%9F%E4%BC%A0%E5%A5%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>钟传奇</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>钟传奇</title>
+      <link>https://jianweishuai.github.io/groupweb/author/%E9%92%9F%E4%BC%A0%E5%A5%87/</link>
+    </image>
+    
+    <item>
+      <title>数据不依赖获取的质谱数据的深度学习分析方</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2021%E5%8E%A6%E5%A4%A7%E5%AD%A6%E6%8A%A5%E8%B4%A8%E8%B0%B1/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2021%E5%8E%A6%E5%A4%A7%E5%AD%A6%E6%8A%A5%E8%B4%A8%E8%B0%B1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
