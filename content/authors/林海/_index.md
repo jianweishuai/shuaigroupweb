@@ -7,13 +7,12 @@ authors: 林海
 superuser: true
 
 # Role/position
-role:  国科温州研究院<br/>瓯江实验室<br/>助理研究员
+role:  国科温州研究院<br/>助理研究员
 
 # Organizations/Affiliations
 organizations:
   - name: 国科温州研究院
     url: ''
-  - name: 瓯江实验室
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

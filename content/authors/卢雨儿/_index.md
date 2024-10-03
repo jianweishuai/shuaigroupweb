@@ -12,13 +12,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 国科温州研究院<br>瓯江实验室<br/>研究助理
+role: 国科温州研究院<br/>研究助理
 
 # Organizations/Affiliations
 organizations:
   - name: 国科温州研究院
-    url: ''
-  - name: 瓯江实验室
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

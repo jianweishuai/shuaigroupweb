@@ -10,13 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 国科温州研究院<br/>瓯江实验室<br>博士后
+role: 国科温州研究院<br>博士后
 
 # Organizations/Affiliations
 organizations:
   - name: 国科温州研究院
     url: ''
-  - name: 瓯江实验室
 
 # Short bio (displayed in user profile at end of posts)
 bio: 群体智能和深度学习
