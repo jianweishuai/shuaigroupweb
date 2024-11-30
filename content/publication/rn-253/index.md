@@ -13,8 +13,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2024-11-30T10:28:36.316100Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Health Inf Sci Syst*'
 doi: 10.1007/s13755-023-00268-1
 abstract: Cardiovascular disease management often involves adjusting medication dosage
@@ -39,4 +38,5 @@ abstract: Cardiovascular disease management often involves adjusting medication 
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38274493
+url_pdf: /shuaigroupweb/publication/rn-253/2024朱方方HISS.pdf
 ---
