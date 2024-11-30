@@ -11,8 +11,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2024-11-30T06:55:19.476491Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*J Proteome Res*'
 doi: 10.1021/acs.jproteome.3c00729
 abstract: In shotgun proteomics, the proteome search engine analyzes mass spectra
