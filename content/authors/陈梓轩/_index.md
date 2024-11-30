@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 国科温州研究院<br>研究生
+role: 国科温州研究院<br>助理研究员
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-  
+
 
 education:
   courses:
-    # - course: 研究生
-    #   institution: 广西民族大学 人工智能学院
-    #   year: 2021-至今
+  # - course: 研究生
+  #   institution: 广西民族大学 人工智能学院
+  #   year: 2021-至今
 
 
 # Social/Academic Networking
@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Researchers guo
 ---
 **陈梓轩**
 

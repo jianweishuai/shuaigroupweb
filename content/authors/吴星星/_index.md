@@ -41,18 +41,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:wuxx@wiucas.ac.cn'
- # - icon: twitter
- #   icon_pack: fab
- #   link: https://twitter.com/GeorgeCushen
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:wuxx@wiucas.ac.cn'
+    # - icon: twitter
+    #   icon_pack: fab
+    #   link: https://twitter.com/GeorgeCushen
+    #- icon: google-scholar
+    #  icon_pack: ai
+    #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    #- icon: github
+    #  icon_pack: fab
+    #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +65,7 @@ email: 'wuxx@wiucas.ac.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Reserved space
 ---
 
 从事生物物理计算和机器学习算法研究，以第一作者或通讯作者(含共同)在Physical Review E、Scientific Reports等期刊上发表论文5篇。

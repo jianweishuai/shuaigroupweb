@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdoctoral
 ---
 
 主要研究领域涵盖群体智能（Swarm Intelligence）和深度学习（Deep Learning）等，主要研究方向是神经进化（NeuroEvolution）。专注于利用进化算法（Evolutionary Algorithm）自动构建并优化计算机视觉（Computer Vision）领域中不同类型的深度神经网络（Deep Neural Network）课题研究。
