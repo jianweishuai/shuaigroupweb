@@ -9,8 +9,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2024-11-30T10:33:06.843204Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Research (Wash D C)*'
 doi: 10.34133/research.0361
 abstract: Neural networks excel at capturing local spatial patterns through convolutional
@@ -38,4 +37,5 @@ abstract: Neural networks excel at capturing local spatial patterns through conv
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38737196
+  url_pdf: /shuaigroupweb/publication/rn-254/2024朱方方Research.pdf
 ---
