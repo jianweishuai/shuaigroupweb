@@ -15,8 +15,7 @@ authors:
 - Z. Li
 date: '2024-01-01'
 publishDate: '2024-11-30T09:22:54.339676Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Biophys J*'
 abstract: Cell migration, which is primarily characterized by directional persistence,
   is essential for the development of normal tissues and organs, as well as for numerous
@@ -38,4 +37,5 @@ abstract: Cell migration, which is primarily characterized by directional persis
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38366586
+url_pdf: /shuaigroupweb/publication/rn-247/2024刘艳平BPJ.pdf
 ---
