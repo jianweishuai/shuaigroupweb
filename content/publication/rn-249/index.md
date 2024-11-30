@@ -19,7 +19,6 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-11-30T09:53:41.421802Z'
 publication_types: ['2']
-- article-journal
 publication: '*Cell Rep*'
 doi: 10.1016/j.celrep.2024.113947
 abstract: N6-methyladenosine (m6A) modification has been implicated in many cell processes
