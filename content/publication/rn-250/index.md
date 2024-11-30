@@ -16,8 +16,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2024-11-30T10:07:39.679247Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Comput Biol Med*'
 doi: 10.1016/j.compbiomed.2024.108393
 abstract: X-rays, commonly used in clinical settings, offer advantages such as low
@@ -40,4 +39,5 @@ abstract: X-rays, commonly used in clinical settings, offer advantages such as l
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38582001
+url_pdf: /shuaigroupweb/publication/rn-250/2024幸鑫龙CBM.pdf
 ---
