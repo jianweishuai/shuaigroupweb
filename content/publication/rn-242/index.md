@@ -32,4 +32,6 @@ abstract: In shotgun proteomics, the proteome search engine analyzes mass spectr
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38252705
+
+url_pdf: /shuaigroupweb/publication/rn-242/2024 黎玉林JPR.pdf
 ---
