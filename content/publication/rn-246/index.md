@@ -13,8 +13,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2024-11-30T09:16:31.714791Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Nucleic Acids Res*'
 doi: 10.1093/nar/gkae340
 abstract: Inferring the developmental potential of single cells from scRNA-Seq data
@@ -37,4 +36,5 @@ abstract: Inferring the developmental potential of single cells from scRNA-Seq d
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38709881
+url_pdf: /shuaigroupweb/publication/rn-246/2024林海NAR.pdf
 ---
