@@ -12,8 +12,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2024-11-30T10:18:37.413290Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Brief Bioinform*'
 doi: 10.1093/bib/bbae091
 abstract: Single-cell RNA sequencing (scRNA-seq) has emerged as a powerful tool for
@@ -38,4 +37,6 @@ abstract: Single-cell RNA sequencing (scRNA-seq) has emerged as a powerful tool 
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38487851
+url_pdf: /shuaigroupweb/publication/rn-251/2024徐飞BiB.pdf
+  
 ---
