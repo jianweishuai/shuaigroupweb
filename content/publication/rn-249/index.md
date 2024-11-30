@@ -18,7 +18,7 @@ authors:
 - Z. Xia
 date: '2024-01-01'
 publishDate: '2024-11-30T09:53:41.421802Z'
-publication_types:
+publication_types: ['2']
 - article-journal
 publication: '*Cell Rep*'
 doi: 10.1016/j.celrep.2024.113947
@@ -39,4 +39,5 @@ abstract: N6-methyladenosine (m6A) modification has been implicated in many cell
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38492220
+url_pdf: /shuaigroupweb/publication/rn-249/2024吴敏CellRep.pdf
 ---
