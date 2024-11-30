@@ -9,8 +9,7 @@ authors:
 - Y. Cao
 date: '2024-01-01'
 publishDate: '2024-11-30T08:11:16.981083Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Int J Mol Sci*'
 doi: 10.3390/ijms25137237
 abstract: In the realm of quantitative proteomics, data-independent acquisition (DIA)
@@ -37,4 +36,5 @@ abstract: In the realm of quantitative proteomics, data-independent acquisition 
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/39000344
+url_pdf: /shuaigroupweb/publication/rn-243/2024何国强IJMS.pdf
 ---
