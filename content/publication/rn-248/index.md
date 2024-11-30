@@ -14,8 +14,7 @@ authors:
 - Z. Li
 date: '2024-01-01'
 publishDate: '2024-11-30T09:48:19.471879Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*NPJ Syst Biol Appl*'
 doi: 10.1038/s41540-024-00353-5
 abstract: Cell migration is crucial for numerous physiological and pathological processes.
@@ -39,4 +38,5 @@ abstract: Cell migration is crucial for numerous physiological and pathological 
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38453929
+url_pdf: /shuaigroupweb/publication/rn-248/2024刘艳平NPJ.pdf
 ---
