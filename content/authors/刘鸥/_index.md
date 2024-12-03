@@ -66,7 +66,7 @@ email: 'oliu@ucas.ac.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Reserved space
+  - Full Researcher
 ---
 
 2006年获香港城市大学信息系统学博士学位，于2022年加入瓯江实验室。在计算机科学与人工智能领域有杰出的研究经验，尤其专注于机器学习、大数据、数字平台与创新。他发表了60多篇学术论文，包括计算机与人工智能领域顶级期刊IEEE Transactions系列如IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Systems Man & Cybernetics 等，计算机与其它学科的交叉领域顶级期刊如Decision Support Systems和 European Journal of Operational Research等。刘鸥成功主持参与了13个竞争性的研究项目，集中在人工智能及相关交叉领域，采用“AI+X”的模式，把人工智能应用于特定行业和领域，包括供应链物流、航空、医疗、生物以及科研项目管理等领域。

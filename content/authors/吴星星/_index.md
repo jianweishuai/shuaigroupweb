@@ -65,7 +65,7 @@ email: 'wuxx@wiucas.ac.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Reserved space
+  - Associate Researcher
 ---
 
 从事生物物理计算和机器学习算法研究，以第一作者或通讯作者(含共同)在Physical Review E、Scientific Reports等期刊上发表论文5篇。

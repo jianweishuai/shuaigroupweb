@@ -17,9 +17,11 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - PI
+    - Full Researcher
+    - Associate Researcher
     - Reserved space
-    - Researchers guo
-    - Researchers ou
+    - Researchers GWI
+    - Researchers OJ
     - Teachers
     - Postdoctoral
     - Students

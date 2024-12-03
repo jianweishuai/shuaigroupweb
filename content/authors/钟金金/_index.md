@@ -68,7 +68,7 @@ email: 'jinjinzhong@xmu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Reserved space
+  - Associate Researcher
 ---
 
 从事功能性生物材料的表征和有机和无机生物矿化机理研究
