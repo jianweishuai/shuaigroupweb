@@ -11,7 +11,6 @@ authors:
 date: '2024-01-01'
 publishDate: '2025-02-17T12:22:30.623292Z'
 publication_types: ['2']
-- article-journal
 publication: '*Interdiscip Sci*'
 doi: 10.1007/s12539-024-00611-4
 abstract: Mass spectrometry is crucial in proteomics analysis, particularly using
