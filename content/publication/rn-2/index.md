@@ -19,8 +19,7 @@ authors:
 - L. Liu
 date: '2024-01-01'
 publishDate: '2025-02-17T12:41:59.050976Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Nat Commun*'
 doi: 10.1038/s41467-024-53123-6
 abstract: Maximizing materials utilization efficiency via enhancing their reconfigurability
@@ -45,4 +44,5 @@ abstract: Maximizing materials utilization efficiency via enhancing their reconf
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/39402043
+url_pdf: /shuaigroupweb/publication/rn-2/2024l刘雳宇NatComm.pdf
 ---
