@@ -10,7 +10,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2025-02-17T12:22:30.623292Z'
-publication_types:
+publication_types: ['2']
 - article-journal
 publication: '*Interdiscip Sci*'
 doi: 10.1007/s12539-024-00611-4
@@ -38,4 +38,5 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38472692
+url_pdf: /shuaigroupweb/publication/rn-1/2024 何情祖INSC.pdf
 ---
