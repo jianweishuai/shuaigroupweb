@@ -15,8 +15,7 @@ authors:
 - J. Pan
 date: '2024-01-01'
 publishDate: '2025-02-18T03:00:32.059703Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*J Transl Med*'
 doi: 10.1186/s12967-024-05726-2
 abstract: Cirrhosis represents a significant global health challenge, characterized
@@ -43,4 +42,5 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/39402630
+url_pdf: /shuaigroupweb/publication/rn-6/2024翟银平JTM.pdf
 ---
