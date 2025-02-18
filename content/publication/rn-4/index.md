@@ -13,8 +13,7 @@ authors:
 - J. Zhong
 date: '2024-01-01'
 publishDate: '2025-02-18T09:46:46.579624Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Biomed Phys Eng Express*'
 doi: 10.1088/2057-1976/ad7a02
 abstract: Stochastic optical reconstruction microscopy (STORM) is extensively utilized
@@ -43,4 +42,5 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/39265585
+url_pdf: /shuaigroupweb/publication/rn-4/2024卢雨儿BPEE.pdf
 ---
