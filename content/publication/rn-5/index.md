@@ -12,8 +12,7 @@ authors:
 - J. Shuai
 date: '2025-01-01'
 publishDate: '2025-02-18T10:14:54.854392Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*J Adv Res*'
 doi: 10.1016/j.jare.2024.06.002
 abstract: 'INTRODUCTION: With the escalating menace of organic compounds in environmental
@@ -51,4 +50,5 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38844122
+url_pdf: /shuaigroupweb/publication/rn-5/2024杨鑫JAR.pdf
 ---
