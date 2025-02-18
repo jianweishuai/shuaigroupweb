@@ -10,8 +10,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2025-02-18T03:42:02.611396Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Smart Med*'
 doi: 10.1002/SMMD.20240014
 abstract: Peptide spectrum matching is the process of linking mass spectrometry data
@@ -38,4 +37,5 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/39420951
+url_pdf: /shuaigroupweb/publication/rn-3/2024何情祖SmartM.pdf
 ---
