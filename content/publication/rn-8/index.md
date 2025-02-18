@@ -11,8 +11,7 @@ authors:
 - J. Shuai
 date: '2024-01-01'
 publishDate: '2025-02-18T10:39:03.477195Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Brief Bioinform*'
 doi: 10.1093/bib/bbae698
 abstract: Aging is a complex and heterogeneous biological process at cellular, tissue,
@@ -40,4 +39,5 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/39757115
+url_pdf: /shuaigroupweb/publication/rn-8/2025刘志龙BiB.pdf
 ---
