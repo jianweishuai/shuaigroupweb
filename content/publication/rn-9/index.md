@@ -13,7 +13,7 @@ authors:
 - Jinjin Zhong
 date: '2024-01-01'
 publishDate: '2025-02-18T10:44:26.851141Z'
-publication_types:[2]
+publication_types: ['2']
 publication: '*Complex & Intelligent Systems*'
 doi: 10.1007/s40747-024-01633-7
 url_pdf: /shuaigroupweb/publication/rn-9/2025卢雨儿CIS.pdf
